@@ -1,0 +1,8 @@
+﻿Name: Django Unchained
+Release Year: 2012
+Run Time: 165
+Rating: 8.5
+Metascore: 81
+Votes: 1,668,006
+Gross: $162.81M
+Link: https://www.imdb.com//title/tt1853728/

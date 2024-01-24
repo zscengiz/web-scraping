@@ -1,0 +1,8 @@
+﻿Name: Star Wars
+Release Year: 1977
+Run Time: 121
+Rating: 8.6
+Metascore: 90
+Votes: 1,433,886
+Gross: $322.74M
+Link: https://www.imdb.com//title/tt0076759/

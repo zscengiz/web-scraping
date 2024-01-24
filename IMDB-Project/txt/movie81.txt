@@ -1,0 +1,8 @@
+﻿Name: 2001: A Space Odyssey
+Release Year: 1968
+Run Time: 149
+Rating: 8.3
+Metascore: 84
+Votes: 710,108
+Gross: $56.95M
+Link: https://www.imdb.com//title/tt0062622/
