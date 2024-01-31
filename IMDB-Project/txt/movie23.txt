@@ -1,8 +1,8 @@
-﻿Name: Terminator 2: Judgment Day
-Release Year: 1991
-Run Time: 137
+﻿Name: Sen to Chihiro no kamikakushi
+Release Year: 2001
+Run Time: 125
 Rating: 8.6
-Metascore: 75
-Votes: 1,160,271
-Gross: $204.84M
-Link: https://www.imdb.com/title/tt0103064/
+Metascore: 96
+Votes: 833,938
+Gross: $10.06M
+Link: https://www.imdb.com/title/tt0245429/

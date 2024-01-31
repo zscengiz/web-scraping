@@ -1,8 +1,8 @@
-﻿Name: American History X
-Release Year: 1998
-Run Time: 119
+﻿Name: The Pianist
+Release Year: 2002
+Run Time: 150
 Rating: 8.5
-Metascore: 62
-Votes: 1,174,484
-Gross: $6.72M
-Link: https://www.imdb.com/title/tt0120586/
+Metascore: 85
+Votes: 898,923
+Gross: $32.57M
+Link: https://www.imdb.com/title/tt0253474/

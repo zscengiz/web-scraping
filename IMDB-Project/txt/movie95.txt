@@ -1,8 +1,8 @@
-﻿Name: North by Northwest
-Release Year: 1959
-Run Time: 136
+﻿Name: Citizen Kane
+Release Year: 1941
+Run Time: 119
 Rating: 8.3
-Metascore: 98
-Votes: 342,950
-Gross: $13.28M
-Link: https://www.imdb.com/title/tt0053125/
+Metascore: 100
+Votes: 461,923
+Gross: $1.59M
+Link: https://www.imdb.com/title/tt0033467/

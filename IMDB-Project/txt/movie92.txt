@@ -1,8 +1,8 @@
-﻿Name: Up
-Release Year: 2009
-Run Time: 96
+﻿Name: The Sting
+Release Year: 1973
+Run Time: 129
 Rating: 8.3
-Metascore: 88
-Votes: 1,109,671
-Gross: $293.00M
-Link: https://www.imdb.com/title/tt1049413/
+Metascore: 83
+Votes: 276,836
+Gross: $159.60M
+Link: https://www.imdb.com/title/tt0070735/

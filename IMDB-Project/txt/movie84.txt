@@ -1,8 +1,8 @@
-﻿Name: Full Metal Jacket
-Release Year: 1987
-Run Time: 116
+﻿Name: Incendies
+Release Year: 2010
+Run Time: 131
 Rating: 8.3
-Metascore: 78
-Votes: 781,453
-Gross: $46.36M
-Link: https://www.imdb.com/title/tt0093058/
+Metascore: 80
+Votes: 194,480
+Gross: $6.86M
+Link: https://www.imdb.com/title/tt1255953/

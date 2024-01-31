@@ -1,8 +1,8 @@
-﻿Name: The Apartment
-Release Year: 1960
-Run Time: 125
+﻿Name: Singin' in the Rain
+Release Year: 1952
+Run Time: 103
 Rating: 8.3
-Metascore: 94
-Votes: 193,973
-Gross: $18.60M
-Link: https://www.imdb.com/title/tt0053604/
+Metascore: 99
+Votes: 257,822
+Gross: $8.82M
+Link: https://www.imdb.com/title/tt0045152/

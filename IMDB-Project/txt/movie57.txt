@@ -1,8 +1,8 @@
-﻿Name: Apocalypse Now
-Release Year: 1979
-Run Time: 147
+﻿Name: Raiders of the Lost Ark
+Release Year: 1981
+Run Time: 115
 Rating: 8.4
-Metascore: 94
-Votes: 702,115
-Gross: $83.47M
-Link: https://www.imdb.com/title/tt0078788/
+Metascore: 86
+Votes: 1,028,119
+Gross: $248.16M
+Link: https://www.imdb.com/title/tt0082971/

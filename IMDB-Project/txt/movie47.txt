@@ -1,8 +1,8 @@
-﻿Name: Psycho
-Release Year: 1960
-Run Time: 109
+﻿Name: Once Upon a Time in the West
+Release Year: 1968
+Run Time: 166
 Rating: 8.5
-Metascore: 97
-Votes: 710,374
-Gross: $32.00M
-Link: https://www.imdb.com/title/tt0054215/
+Metascore: 82
+Votes: 346,241
+Gross: $5.32M
+Link: https://www.imdb.com/title/tt0064116/

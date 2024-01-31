@@ -1,8 +1,8 @@
-﻿Name: The Departed
-Release Year: 2006
-Run Time: 151
+﻿Name: Django Unchained
+Release Year: 2012
+Run Time: 165
 Rating: 8.5
-Metascore: 85
-Votes: 1,404,835
-Gross: $132.38M
-Link: https://www.imdb.com/title/tt0407887/
+Metascore: 81
+Votes: 1,669,945
+Gross: $162.81M
+Link: https://www.imdb.com/title/tt1853728/

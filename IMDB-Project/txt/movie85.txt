@@ -1,8 +1,8 @@
-﻿Name: Once Upon a Time in America
-Release Year: 1984
-Run Time: 229
+﻿Name: Full Metal Jacket
+Release Year: 1987
+Run Time: 116
 Rating: 8.3
-Metascore: 75
-Votes: 373,287
-Gross: $5.32M
-Link: https://www.imdb.com/title/tt0087843/
+Metascore: 78
+Votes: 782,035
+Gross: $46.36M
+Link: https://www.imdb.com/title/tt0093058/

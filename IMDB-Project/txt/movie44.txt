@@ -1,8 +1,8 @@
-﻿Name: The Intouchables
-Release Year: 2011
-Run Time: 112
+﻿Name: Psycho
+Release Year: 1960
+Run Time: 109
 Rating: 8.5
-Metascore: 57
-Votes: 915,686
-Gross: $13.18M
-Link: https://www.imdb.com/title/tt1675434/
+Metascore: 97
+Votes: 710,956
+Gross: $32.00M
+Link: https://www.imdb.com/title/tt0054215/

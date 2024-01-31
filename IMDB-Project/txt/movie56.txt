@@ -1,8 +1,8 @@
-﻿Name: Raiders of the Lost Ark
-Release Year: 1981
-Run Time: 115
+﻿Name: The Shining
+Release Year: 1980
+Run Time: 146
 Rating: 8.4
-Metascore: 86
-Votes: 1,027,377
-Gross: $248.16M
-Link: https://www.imdb.com/title/tt0082971/
+Metascore: 66
+Votes: 1,092,855
+Gross: $44.02M
+Link: https://www.imdb.com/title/tt0081505/

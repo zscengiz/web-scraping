@@ -1,8 +1,8 @@
-﻿Name: Vertigo
-Release Year: 1958
-Run Time: 128
+﻿Name: Metropolis
+Release Year: 1927
+Run Time: 153
 Rating: 8.3
-Metascore: 100
-Votes: 422,481
-Gross: $3.20M
-Link: https://www.imdb.com/title/tt0052357/
+Metascore: 98
+Votes: 183,532
+Gross: $1.24M
+Link: https://www.imdb.com/title/tt0017136/

@@ -1,8 +1,8 @@
-﻿Name: Coco
-Release Year: I 2017
-Run Time: 105
+﻿Name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Release Year: 1964
+Run Time: 95
 Rating: 8.4
-Metascore: 81
-Votes: 576,198
-Gross: $209.73M
-Link: https://www.imdb.com/title/tt2380307/
+Metascore: 97
+Votes: 513,128
+Gross: $0.28M
+Link: https://www.imdb.com/title/tt0057012/

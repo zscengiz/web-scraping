@@ -1,8 +1,8 @@
-﻿Name: Django Unchained
-Release Year: 2012
-Run Time: 165
+﻿Name: The Lion King
+Release Year: 1994
+Run Time: 88
 Rating: 8.5
-Metascore: 81
-Votes: 1,668,104
-Gross: $162.81M
-Link: https://www.imdb.com/title/tt1853728/
+Metascore: 88
+Votes: 1,127,853
+Gross: $422.78M
+Link: https://www.imdb.com/title/tt0110357/

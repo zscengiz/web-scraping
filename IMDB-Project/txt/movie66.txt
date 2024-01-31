@@ -1,8 +1,8 @@
-﻿Name: Das Boot
-Release Year: 1981
-Run Time: 149
+﻿Name: Sunset Blvd.
+Release Year: 1950
+Run Time: 110
 Rating: 8.4
-Metascore: 85
-Votes: 262,059
-Gross: $11.49M
-Link: https://www.imdb.com/title/tt0082096/
+Metascore: 94
+Votes: 234,027
+Gross: *****
+Link: https://www.imdb.com/title/tt0043014/

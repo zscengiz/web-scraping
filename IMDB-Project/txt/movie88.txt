@@ -1,8 +1,8 @@
-﻿Name: The Sting
-Release Year: 1973
-Run Time: 129
+﻿Name: Star Wars: Episode VI - Return of the Jedi
+Release Year: 1983
+Run Time: 131
 Rating: 8.3
-Metascore: 83
-Votes: 276,579
-Gross: $159.60M
-Link: https://www.imdb.com/title/tt0070735/
+Metascore: 58
+Votes: 1,109,738
+Gross: $309.13M
+Link: https://www.imdb.com/title/tt0086190/

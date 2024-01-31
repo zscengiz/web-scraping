@@ -1,8 +1,8 @@
-﻿Name: The Usual Suspects
-Release Year: 1995
-Run Time: 106
+﻿Name: American History X
+Release Year: 1998
+Run Time: 119
 Rating: 8.5
-Metascore: 76
-Votes: 1,134,124
-Gross: $23.34M
-Link: https://www.imdb.com/title/tt0114814/
+Metascore: 62
+Votes: 1,175,424
+Gross: $6.72M
+Link: https://www.imdb.com/title/tt0120586/

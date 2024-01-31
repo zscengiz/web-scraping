@@ -1,8 +1,8 @@
-﻿Name: Le fabuleux destin d'Amélie Poulain
-Release Year: 2001
-Run Time: 122
+﻿Name: Lawrence of Arabia
+Release Year: 1962
+Run Time: 218
 Rating: 8.3
-Metascore: 69
-Votes: 787,608
-Gross: $33.23M
-Link: https://www.imdb.com/title/tt0211915/
+Metascore: 100
+Votes: 310,614
+Gross: $44.82M
+Link: https://www.imdb.com/title/tt0056172/

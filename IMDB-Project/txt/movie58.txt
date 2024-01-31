@@ -1,8 +1,8 @@
-﻿Name: Spider-Man: Into the Spider-Verse
-Release Year: 2018
-Run Time: 117
+﻿Name: Apocalypse Now
+Release Year: 1979
+Run Time: 147
 Rating: 8.4
-Metascore: 87
-Votes: 654,331
-Gross: $190.24M
-Link: https://www.imdb.com/title/tt4633694/
+Metascore: 94
+Votes: 702,666
+Gross: $83.47M
+Link: https://www.imdb.com/title/tt0078788/

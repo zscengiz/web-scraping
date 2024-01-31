@@ -1,8 +1,8 @@
-﻿Name: The Shining
-Release Year: 1980
-Run Time: 146
+﻿Name: Spider-Man: Into the Spider-Verse
+Release Year: 2018
+Run Time: 117
 Rating: 8.4
-Metascore: 66
-Votes: 1,091,743
-Gross: $44.02M
-Link: https://www.imdb.com/title/tt0081505/
+Metascore: 87
+Votes: 655,667
+Gross: $190.24M
+Link: https://www.imdb.com/title/tt4633694/

@@ -1,8 +1,8 @@
-﻿Name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-Release Year: 1964
-Run Time: 95
+﻿Name: WALL·E
+Release Year: 2008
+Run Time: 98
 Rating: 8.4
-Metascore: 97
-Votes: 512,750
-Gross: $0.28M
-Link: https://www.imdb.com/title/tt0057012/
+Metascore: 95
+Votes: 1,185,482
+Gross: $223.81M
+Link: https://www.imdb.com/title/tt0910970/

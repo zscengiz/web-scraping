@@ -1,8 +1,8 @@
-﻿Name: Metropolis
-Release Year: 1927
-Run Time: 153
+﻿Name: Toy Story 3
+Release Year: 2010
+Run Time: 103
 Rating: 8.3
-Metascore: 98
-Votes: 183,388
-Gross: $1.24M
-Link: https://www.imdb.com/title/tt0017136/
+Metascore: 92
+Votes: 883,649
+Gross: $415.00M
+Link: https://www.imdb.com/title/tt0435761/

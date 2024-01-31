@@ -1,8 +1,8 @@
-﻿Name: To Kill a Mockingbird
-Release Year: 1962
-Run Time: 129
+﻿Name: Judgment at Nuremberg
+Release Year: 1961
+Run Time: 179
 Rating: 8.3
-Metascore: 88
-Votes: 329,929
+Metascore: 60
+Votes: 83,860
 Gross: *****
-Link: https://www.imdb.com/title/tt0056592/
+Link: https://www.imdb.com/title/tt0055031/

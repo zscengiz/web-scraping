@@ -1,8 +1,8 @@
-﻿Name: Citizen Kane
-Release Year: 1941
-Run Time: 119
+﻿Name: Vertigo
+Release Year: 1958
+Run Time: 128
 Rating: 8.3
 Metascore: 100
-Votes: 461,625
-Gross: $1.59M
-Link: https://www.imdb.com/title/tt0033467/
+Votes: 422,825
+Gross: $3.20M
+Link: https://www.imdb.com/title/tt0052357/

@@ -4,7 +4,7 @@ Release Year: 1994
 Run Time: 142
 Rating: 9.3
 Metascore: 82
-Votes: 2,848,909
+Votes: 2,851,826
 Gross: $28.34M
 Link: https://www.imdb.com/title/tt0111161/
 
@@ -14,7 +14,7 @@ Release Year: 1972
 Run Time: 175
 Rating: 9.2
 Metascore: 100
-Votes: 1,985,100
+Votes: 1,987,035
 Gross: $134.97M
 Link: https://www.imdb.com/title/tt0068646/
 
@@ -24,7 +24,7 @@ Release Year: 2008
 Run Time: 152
 Rating: 9
 Metascore: 84
-Votes: 2,830,280
+Votes: 2,833,131
 Gross: $534.86M
 Link: https://www.imdb.com/title/tt0468569/
 
@@ -34,7 +34,7 @@ Release Year: 1993
 Run Time: 195
 Rating: 9
 Metascore: 95
-Votes: 1,431,164
+Votes: 1,432,638
 Gross: $96.90M
 Link: https://www.imdb.com/title/tt0108052/
 
@@ -44,7 +44,7 @@ Release Year: 2003
 Run Time: 201
 Rating: 9
 Metascore: 94
-Votes: 1,951,788
+Votes: 1,953,712
 Gross: $377.85M
 Link: https://www.imdb.com/title/tt0167260/
 
@@ -54,7 +54,7 @@ Release Year: 1974
 Run Time: 202
 Rating: 9
 Metascore: 90
-Votes: 1,347,236
+Votes: 1,348,489
 Gross: $57.30M
 Link: https://www.imdb.com/title/tt0071562/
 
@@ -64,7 +64,7 @@ Release Year: 1957
 Run Time: 96
 Rating: 9
 Metascore: 97
-Votes: 850,775
+Votes: 851,766
 Gross: $4.36M
 Link: https://www.imdb.com/title/tt0050083/
 
@@ -74,7 +74,7 @@ Release Year: 2001
 Run Time: 178
 Rating: 8.9
 Metascore: 92
-Votes: 1,979,155
+Votes: 1,981,126
 Gross: $315.54M
 Link: https://www.imdb.com/title/tt0120737/
 
@@ -84,7 +84,7 @@ Release Year: 1994
 Run Time: 154
 Rating: 8.9
 Metascore: 95
-Votes: 2,186,830
+Votes: 2,189,326
 Gross: $107.93M
 Link: https://www.imdb.com/title/tt0110912/
 
@@ -94,7 +94,7 @@ Release Year: 2010
 Run Time: 148
 Rating: 8.8
 Metascore: 74
-Votes: 2,512,674
+Votes: 2,515,327
 Gross: $292.58M
 Link: https://www.imdb.com/title/tt1375666/
 
@@ -104,7 +104,7 @@ Release Year: 1999
 Run Time: 139
 Rating: 8.8
 Metascore: 67
-Votes: 2,284,218
+Votes: 2,287,228
 Gross: $37.03M
 Link: https://www.imdb.com/title/tt0137523/
 
@@ -114,7 +114,7 @@ Release Year: 1994
 Run Time: 142
 Rating: 8.8
 Metascore: 82
-Votes: 2,222,084
+Votes: 2,224,844
 Gross: $330.25M
 Link: https://www.imdb.com/title/tt0109830/
 
@@ -124,7 +124,7 @@ Release Year: 2002
 Run Time: 179
 Rating: 8.8
 Metascore: 87
-Votes: 1,759,761
+Votes: 1,761,263
 Gross: $342.55M
 Link: https://www.imdb.com/title/tt0167261/
 
@@ -134,7 +134,7 @@ Release Year: 1966
 Run Time: 161
 Rating: 8.8
 Metascore: 90
-Votes: 801,519
+Votes: 802,220
 Gross: $6.10M
 Link: https://www.imdb.com/title/tt0060196/
 
@@ -144,7 +144,7 @@ Release Year: 2014
 Run Time: 169
 Rating: 8.7
 Metascore: 74
-Votes: 2,047,282
+Votes: 2,050,761
 Gross: $188.02M
 Link: https://www.imdb.com/title/tt0816692/
 
@@ -154,29 +154,29 @@ Release Year: 1975
 Run Time: 133
 Rating: 8.7
 Metascore: 84
-Votes: 1,059,792
+Votes: 1,060,880
 Gross: $112.00M
 Link: https://www.imdb.com/title/tt0073486/
 
 Movie 17:
-Name: The Matrix
-Release Year: 1999
-Run Time: 136
-Rating: 8.7
-Metascore: 73
-Votes: 2,024,381
-Gross: $171.48M
-Link: https://www.imdb.com/title/tt0133093/
-
-Movie 18:
 Name: Goodfellas
 Release Year: 1990
 Run Time: 145
 Rating: 8.7
 Metascore: 92
-Votes: 1,239,275
+Votes: 1,240,562
 Gross: $46.84M
 Link: https://www.imdb.com/title/tt0099685/
+
+Movie 18:
+Name: The Matrix
+Release Year: 1999
+Run Time: 136
+Rating: 8.7
+Metascore: 73
+Votes: 2,026,296
+Gross: $171.48M
+Link: https://www.imdb.com/title/tt0133093/
 
 Movie 19:
 Name: Star Wars: Episode V - The Empire Strikes Back
@@ -184,7 +184,7 @@ Release Year: 1980
 Run Time: 124
 Rating: 8.7
 Metascore: 82
-Votes: 1,363,263
+Votes: 1,364,446
 Gross: $290.48M
 Link: https://www.imdb.com/title/tt0080684/
 
@@ -194,7 +194,7 @@ Release Year: 1991
 Run Time: 118
 Rating: 8.6
 Metascore: 86
-Votes: 1,525,657
+Votes: 1,527,583
 Gross: $130.74M
 Link: https://www.imdb.com/title/tt0102926/
 
@@ -204,29 +204,29 @@ Release Year: 1995
 Run Time: 127
 Rating: 8.6
 Metascore: 65
-Votes: 1,770,344
+Votes: 1,772,403
 Gross: $100.13M
 Link: https://www.imdb.com/title/tt0114369/
 
 Movie 22:
-Name: Sen to Chihiro no kamikakushi
-Release Year: 2001
-Run Time: 125
-Rating: 8.6
-Metascore: 96
-Votes: 832,502
-Gross: $10.06M
-Link: https://www.imdb.com/title/tt0245429/
-
-Movie 23:
 Name: Terminator 2: Judgment Day
 Release Year: 1991
 Run Time: 137
 Rating: 8.6
 Metascore: 75
-Votes: 1,160,271
+Votes: 1,161,257
 Gross: $204.84M
 Link: https://www.imdb.com/title/tt0103064/
+
+Movie 23:
+Name: Sen to Chihiro no kamikakushi
+Release Year: 2001
+Run Time: 125
+Rating: 8.6
+Metascore: 96
+Votes: 833,938
+Gross: $10.06M
+Link: https://www.imdb.com/title/tt0245429/
 
 Movie 24:
 Name: Star Wars
@@ -234,7 +234,7 @@ Release Year: 1977
 Run Time: 121
 Rating: 8.6
 Metascore: 90
-Votes: 1,433,949
+Votes: 1,435,049
 Gross: $322.74M
 Link: https://www.imdb.com/title/tt0076759/
 
@@ -244,7 +244,7 @@ Release Year: 1999
 Run Time: 189
 Rating: 8.6
 Metascore: 61
-Votes: 1,387,482
+Votes: 1,389,020
 Gross: $136.80M
 Link: https://www.imdb.com/title/tt0120689/
 
@@ -254,7 +254,7 @@ Release Year: 1998
 Run Time: 169
 Rating: 8.6
 Metascore: 91
-Votes: 1,477,422
+Votes: 1,478,916
 Gross: $216.54M
 Link: https://www.imdb.com/title/tt0120815/
 
@@ -264,7 +264,7 @@ Release Year: 2002
 Run Time: 130
 Rating: 8.6
 Metascore: 79
-Votes: 792,406
+Votes: 793,009
 Gross: $7.56M
 Link: https://www.imdb.com/title/tt0317248/
 
@@ -274,7 +274,7 @@ Release Year: 1997
 Run Time: 116
 Rating: 8.6
 Metascore: 58
-Votes: 734,318
+Votes: 735,051
 Gross: $57.60M
 Link: https://www.imdb.com/title/tt0118799/
 
@@ -284,7 +284,7 @@ Release Year: 1946
 Run Time: 130
 Rating: 8.6
 Metascore: 89
-Votes: 494,031
+Votes: 494,467
 Gross: *****
 Link: https://www.imdb.com/title/tt0038650/
 
@@ -294,7 +294,7 @@ Release Year: 1954
 Run Time: 207
 Rating: 8.6
 Metascore: 98
-Votes: 362,947
+Votes: 363,219
 Gross: $0.27M
 Link: https://www.imdb.com/title/tt0047478/
 
@@ -304,7 +304,7 @@ Release Year: 2000
 Run Time: 155
 Rating: 8.5
 Metascore: 67
-Votes: 1,596,219
+Votes: 1,598,037
 Gross: $187.71M
 Link: https://www.imdb.com/title/tt0172495/
 
@@ -314,109 +314,109 @@ Release Year: 2014
 Run Time: 106
 Rating: 8.5
 Metascore: 89
-Votes: 964,343
+Votes: 966,239
 Gross: $13.09M
 Link: https://www.imdb.com/title/tt2582802/
 
 Movie 33:
-Name: Léon
-Release Year: 1994
-Run Time: 110
-Rating: 8.5
-Metascore: 64
-Votes: 1,229,605
-Gross: $19.50M
-Link: https://www.imdb.com/title/tt0110413/
-
-Movie 34:
-Name: The Lion King
-Release Year: 1994
-Run Time: 88
-Rating: 8.5
-Metascore: 88
-Votes: 1,126,638
-Gross: $422.78M
-Link: https://www.imdb.com/title/tt0110357/
-
-Movie 35:
-Name: Alien
-Release Year: 1979
-Run Time: 117
-Rating: 8.5
-Metascore: 89
-Votes: 937,160
-Gross: $78.90M
-Link: https://www.imdb.com/title/tt0078748/
-
-Movie 36:
 Name: Back to the Future
 Release Year: 1985
 Run Time: 116
 Rating: 8.5
 Metascore: 87
-Votes: 1,288,298
+Votes: 1,289,741
 Gross: $210.61M
 Link: https://www.imdb.com/title/tt0088763/
 
-Movie 37:
-Name: The Prestige
-Release Year: 2006
-Run Time: 130
-Rating: 8.5
-Metascore: 66
-Votes: 1,421,222
-Gross: $53.09M
-Link: https://www.imdb.com/title/tt0482571/
-
-Movie 38:
+Movie 34:
 Name: The Departed
 Release Year: 2006
 Run Time: 151
 Rating: 8.5
 Metascore: 85
-Votes: 1,404,835
+Votes: 1,406,099
 Gross: $132.38M
 Link: https://www.imdb.com/title/tt0407887/
 
-Movie 39:
+Movie 35:
+Name: The Prestige
+Release Year: 2006
+Run Time: 130
+Rating: 8.5
+Metascore: 66
+Votes: 1,422,551
+Gross: $53.09M
+Link: https://www.imdb.com/title/tt0482571/
+
+Movie 36:
+Name: Léon
+Release Year: 1994
+Run Time: 110
+Rating: 8.5
+Metascore: 64
+Votes: 1,230,967
+Gross: $19.50M
+Link: https://www.imdb.com/title/tt0110413/
+
+Movie 37:
+Name: Alien
+Release Year: 1979
+Run Time: 117
+Rating: 8.5
+Metascore: 89
+Votes: 938,123
+Gross: $78.90M
+Link: https://www.imdb.com/title/tt0078748/
+
+Movie 38:
 Name: Django Unchained
 Release Year: 2012
 Run Time: 165
 Rating: 8.5
 Metascore: 81
-Votes: 1,668,104
+Votes: 1,669,945
 Gross: $162.81M
 Link: https://www.imdb.com/title/tt1853728/
 
+Movie 39:
+Name: The Lion King
+Release Year: 1994
+Run Time: 88
+Rating: 8.5
+Metascore: 88
+Votes: 1,127,853
+Gross: $422.78M
+Link: https://www.imdb.com/title/tt0110357/
+
 Movie 40:
-Name: The Usual Suspects
-Release Year: 1995
-Run Time: 106
-Rating: 8.5
-Metascore: 76
-Votes: 1,134,124
-Gross: $23.34M
-Link: https://www.imdb.com/title/tt0114814/
-
-Movie 41:
-Name: The Pianist
-Release Year: 2002
-Run Time: 150
-Rating: 8.5
-Metascore: 85
-Votes: 897,831
-Gross: $32.57M
-Link: https://www.imdb.com/title/tt0253474/
-
-Movie 42:
 Name: American History X
 Release Year: 1998
 Run Time: 119
 Rating: 8.5
 Metascore: 62
-Votes: 1,174,484
+Votes: 1,175,424
 Gross: $6.72M
 Link: https://www.imdb.com/title/tt0120586/
+
+Movie 41:
+Name: The Usual Suspects
+Release Year: 1995
+Run Time: 106
+Rating: 8.5
+Metascore: 76
+Votes: 1,134,958
+Gross: $23.34M
+Link: https://www.imdb.com/title/tt0114814/
+
+Movie 42:
+Name: The Pianist
+Release Year: 2002
+Run Time: 150
+Rating: 8.5
+Metascore: 85
+Votes: 898,923
+Gross: $32.57M
+Link: https://www.imdb.com/title/tt0253474/
 
 Movie 43:
 Name: Casablanca
@@ -424,29 +424,29 @@ Release Year: 1942
 Run Time: 102
 Rating: 8.5
 Metascore: 100
-Votes: 599,797
+Votes: 600,231
 Gross: $1.02M
 Link: https://www.imdb.com/title/tt0034583/
 
 Movie 44:
+Name: Psycho
+Release Year: 1960
+Run Time: 109
+Rating: 8.5
+Metascore: 97
+Votes: 710,956
+Gross: $32.00M
+Link: https://www.imdb.com/title/tt0054215/
+
+Movie 45:
 Name: The Intouchables
 Release Year: 2011
 Run Time: 112
 Rating: 8.5
 Metascore: 57
-Votes: 915,686
+Votes: 916,635
 Gross: $13.18M
 Link: https://www.imdb.com/title/tt1675434/
-
-Movie 45:
-Name: Once Upon a Time in the West
-Release Year: 1968
-Run Time: 166
-Rating: 8.5
-Metascore: 82
-Votes: 346,006
-Gross: $5.32M
-Link: https://www.imdb.com/title/tt0064116/
 
 Movie 46:
 Name: Hotaru no haka
@@ -454,19 +454,19 @@ Release Year: 1988
 Run Time: 89
 Rating: 8.5
 Metascore: 94
-Votes: 303,930
+Votes: 304,423
 Gross: *****
 Link: https://www.imdb.com/title/tt0095327/
 
 Movie 47:
-Name: Psycho
-Release Year: 1960
-Run Time: 109
+Name: Once Upon a Time in the West
+Release Year: 1968
+Run Time: 166
 Rating: 8.5
-Metascore: 97
-Votes: 710,374
-Gross: $32.00M
-Link: https://www.imdb.com/title/tt0054215/
+Metascore: 82
+Votes: 346,241
+Gross: $5.32M
+Link: https://www.imdb.com/title/tt0064116/
 
 Movie 48:
 Name: Rear Window
@@ -474,7 +474,7 @@ Release Year: 1954
 Run Time: 112
 Rating: 8.5
 Metascore: 100
-Votes: 516,596
+Votes: 517,021
 Gross: $36.76M
 Link: https://www.imdb.com/title/tt0047396/
 
@@ -484,7 +484,7 @@ Release Year: 1988
 Run Time: 155
 Rating: 8.5
 Metascore: 80
-Votes: 278,925
+Votes: 279,220
 Gross: $11.99M
 Link: https://www.imdb.com/title/tt0095765/
 
@@ -494,7 +494,7 @@ Release Year: 1931
 Run Time: 87
 Rating: 8.5
 Metascore: 99
-Votes: 194,009
+Votes: 194,149
 Gross: $0.02M
 Link: https://www.imdb.com/title/tt0021749/
 
@@ -504,7 +504,7 @@ Release Year: 1936
 Run Time: 87
 Rating: 8.5
 Metascore: 96
-Votes: 256,502
+Votes: 256,720
 Gross: $0.16M
 Link: https://www.imdb.com/title/tt0027977/
 
@@ -514,7 +514,7 @@ Release Year: 2009
 Run Time: 153
 Rating: 8.4
 Metascore: 69
-Votes: 1,557,903
+Votes: 1,559,850
 Gross: $120.54M
 Link: https://www.imdb.com/title/tt0361748/
 
@@ -524,7 +524,7 @@ Release Year: 1986
 Run Time: 137
 Rating: 8.4
 Metascore: 84
-Votes: 754,220
+Votes: 754,845
 Gross: $85.16M
 Link: https://www.imdb.com/title/tt0090605/
 
@@ -534,49 +534,49 @@ Release Year: 2000
 Run Time: 113
 Rating: 8.4
 Metascore: 83
-Votes: 1,306,957
+Votes: 1,308,059
 Gross: $25.54M
 Link: https://www.imdb.com/title/tt0209144/
 
 Movie 55:
-Name: The Shining
-Release Year: 1980
-Run Time: 146
-Rating: 8.4
-Metascore: 66
-Votes: 1,091,743
-Gross: $44.02M
-Link: https://www.imdb.com/title/tt0081505/
-
-Movie 56:
-Name: Raiders of the Lost Ark
-Release Year: 1981
-Run Time: 115
-Rating: 8.4
-Metascore: 86
-Votes: 1,027,377
-Gross: $248.16M
-Link: https://www.imdb.com/title/tt0082971/
-
-Movie 57:
-Name: Apocalypse Now
-Release Year: 1979
-Run Time: 147
-Rating: 8.4
-Metascore: 94
-Votes: 702,115
-Gross: $83.47M
-Link: https://www.imdb.com/title/tt0078788/
-
-Movie 58:
 Name: Spider-Man: Into the Spider-Verse
 Release Year: 2018
 Run Time: 117
 Rating: 8.4
 Metascore: 87
-Votes: 654,331
+Votes: 655,667
 Gross: $190.24M
 Link: https://www.imdb.com/title/tt4633694/
+
+Movie 56:
+Name: The Shining
+Release Year: 1980
+Run Time: 146
+Rating: 8.4
+Metascore: 66
+Votes: 1,092,855
+Gross: $44.02M
+Link: https://www.imdb.com/title/tt0081505/
+
+Movie 57:
+Name: Raiders of the Lost Ark
+Release Year: 1981
+Run Time: 115
+Rating: 8.4
+Metascore: 86
+Votes: 1,028,119
+Gross: $248.16M
+Link: https://www.imdb.com/title/tt0082971/
+
+Movie 58:
+Name: Apocalypse Now
+Release Year: 1979
+Run Time: 147
+Rating: 8.4
+Metascore: 94
+Votes: 702,666
+Gross: $83.47M
+Link: https://www.imdb.com/title/tt0078788/
 
 Movie 59:
 Name: Idi i smotri
@@ -584,7 +584,7 @@ Release Year: 1985
 Run Time: 142
 Rating: 8.4
 Metascore: ^^^^^^
-Votes: 93,924
+Votes: 94,145
 Gross: *****
 Link: https://www.imdb.com/title/tt0091251/
 
@@ -594,39 +594,39 @@ Release Year: 1984
 Run Time: 160
 Rating: 8.4
 Metascore: 87
-Votes: 423,094
+Votes: 423,433
 Gross: $51.97M
 Link: https://www.imdb.com/title/tt0086879/
 
 Movie 61:
-Name: WALL·E
-Release Year: 2008
-Run Time: 98
-Rating: 8.4
-Metascore: 95
-Votes: 1,184,303
-Gross: $223.81M
-Link: https://www.imdb.com/title/tt0910970/
-
-Movie 62:
 Name: Coco
 Release Year: I 2017
 Run Time: 105
 Rating: 8.4
 Metascore: 81
-Votes: 576,198
+Votes: 577,348
 Gross: $209.73M
 Link: https://www.imdb.com/title/tt2380307/
 
-Movie 63:
+Movie 62:
 Name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 Release Year: 1964
 Run Time: 95
 Rating: 8.4
 Metascore: 97
-Votes: 512,750
+Votes: 513,128
 Gross: $0.28M
 Link: https://www.imdb.com/title/tt0057012/
+
+Movie 63:
+Name: WALL·E
+Release Year: 2008
+Run Time: 98
+Rating: 8.4
+Metascore: 95
+Votes: 1,185,482
+Gross: $223.81M
+Link: https://www.imdb.com/title/tt0910970/
 
 Movie 64:
 Name: The Lives of Others
@@ -634,29 +634,29 @@ Release Year: 2006
 Run Time: 137
 Rating: 8.4
 Metascore: 89
-Votes: 406,456
+Votes: 406,742
 Gross: $11.29M
 Link: https://www.imdb.com/title/tt0405094/
 
 Movie 65:
-Name: Sunset Blvd.
-Release Year: 1950
-Run Time: 110
-Rating: 8.4
-Metascore: 94
-Votes: 233,824
-Gross: *****
-Link: https://www.imdb.com/title/tt0043014/
-
-Movie 66:
 Name: Das Boot
 Release Year: 1981
 Run Time: 149
 Rating: 8.4
 Metascore: 85
-Votes: 262,059
+Votes: 262,248
 Gross: $11.49M
 Link: https://www.imdb.com/title/tt0082096/
+
+Movie 66:
+Name: Sunset Blvd.
+Release Year: 1950
+Run Time: 110
+Rating: 8.4
+Metascore: 94
+Votes: 234,027
+Gross: *****
+Link: https://www.imdb.com/title/tt0043014/
 
 Movie 67:
 Name: Paths of Glory
@@ -664,7 +664,7 @@ Release Year: 1957
 Run Time: 88
 Rating: 8.4
 Metascore: 90
-Votes: 209,710
+Votes: 209,891
 Gross: *****
 Link: https://www.imdb.com/title/tt0050825/
 
@@ -674,7 +674,7 @@ Release Year: 1957
 Run Time: 116
 Rating: 8.4
 Metascore: 76
-Votes: 135,498
+Votes: 135,672
 Gross: $8.18M
 Link: https://www.imdb.com/title/tt0051201/
 
@@ -684,7 +684,7 @@ Release Year: 1940
 Run Time: 125
 Rating: 8.4
 Metascore: ^^^^^^
-Votes: 235,064
+Votes: 235,247
 Gross: $0.29M
 Link: https://www.imdb.com/title/tt0032553/
 
@@ -694,7 +694,7 @@ Release Year: I 2011
 Run Time: 102
 Rating: 8.4
 Metascore: 65
-Votes: 37,709
+Votes: 37,731
 Gross: $2.67M
 Link: https://www.imdb.com/title/tt0770802/
 
@@ -704,7 +704,7 @@ Release Year: 1995
 Run Time: 170
 Rating: 8.3
 Metascore: 76
-Votes: 708,634
+Votes: 709,642
 Gross: $67.44M
 Link: https://www.imdb.com/title/tt0113277/
 
@@ -714,7 +714,7 @@ Release Year: 1997
 Run Time: 126
 Rating: 8.3
 Metascore: 71
-Votes: 1,047,251
+Votes: 1,048,908
 Gross: $138.43M
 Link: https://www.imdb.com/title/tt0119217/
 
@@ -724,29 +724,29 @@ Release Year: 1999
 Run Time: 122
 Rating: 8.3
 Metascore: 84
-Votes: 1,200,005
+Votes: 1,200,768
 Gross: $130.10M
 Link: https://www.imdb.com/title/tt0169547/
 
 Movie 74:
-Name: Requiem for a Dream
-Release Year: 2000
-Run Time: 102
-Rating: 8.3
-Metascore: 71
-Votes: 888,649
-Gross: $3.64M
-Link: https://www.imdb.com/title/tt0180093/
-
-Movie 75:
 Name: Oldeuboi
 Release Year: 2003
 Run Time: 120
 Rating: 8.3
 Metascore: 78
-Votes: 625,080
+Votes: 625,927
 Gross: $0.71M
 Link: https://www.imdb.com/title/tt0364569/
+
+Movie 75:
+Name: Requiem for a Dream
+Release Year: 2000
+Run Time: 102
+Rating: 8.3
+Metascore: 71
+Votes: 889,471
+Gross: $3.64M
+Link: https://www.imdb.com/title/tt0180093/
 
 Movie 76:
 Name: Eternal Sunshine of the Spotless Mind
@@ -754,29 +754,29 @@ Release Year: 2004
 Run Time: 108
 Rating: 8.3
 Metascore: 89
-Votes: 1,063,249
+Votes: 1,064,365
 Gross: $34.40M
 Link: https://www.imdb.com/title/tt0338013/
 
 Movie 77:
+Name: Scarface
+Release Year: 1983
+Run Time: 170
+Rating: 8.3
+Metascore: 65
+Votes: 904,261
+Gross: $45.60M
+Link: https://www.imdb.com/title/tt0086250/
+
+Movie 78:
 Name: Braveheart
 Release Year: 1995
 Run Time: 178
 Rating: 8.3
 Metascore: 68
-Votes: 1,081,362
+Votes: 1,082,169
 Gross: $75.60M
 Link: https://www.imdb.com/title/tt0112573/
-
-Movie 78:
-Name: Lawrence of Arabia
-Release Year: 1962
-Run Time: 218
-Rating: 8.3
-Metascore: 100
-Votes: 310,323
-Gross: $44.82M
-Link: https://www.imdb.com/title/tt0056172/
 
 Movie 79:
 Name: A Clockwork Orange
@@ -784,7 +784,7 @@ Release Year: 1971
 Run Time: 136
 Rating: 8.3
 Metascore: 77
-Votes: 872,169
+Votes: 872,882
 Gross: $6.21M
 Link: https://www.imdb.com/title/tt0066921/
 
@@ -794,7 +794,7 @@ Release Year: 2012
 Run Time: 115
 Rating: 8.3
 Metascore: 77
-Votes: 358,180
+Votes: 358,656
 Gross: $0.69M
 Link: https://www.imdb.com/title/tt2106476/
 
@@ -804,19 +804,19 @@ Release Year: 1968
 Run Time: 149
 Rating: 8.3
 Metascore: 84
-Votes: 710,131
+Votes: 710,761
 Gross: $56.95M
 Link: https://www.imdb.com/title/tt0062622/
 
 Movie 82:
-Name: Scarface
-Release Year: 1983
-Run Time: 170
+Name: Once Upon a Time in America
+Release Year: 1984
+Run Time: 229
 Rating: 8.3
-Metascore: 65
-Votes: 903,139
-Gross: $45.60M
-Link: https://www.imdb.com/title/tt0086250/
+Metascore: 75
+Votes: 373,643
+Gross: $5.32M
+Link: https://www.imdb.com/title/tt0087843/
 
 Movie 83:
 Name: Reservoir Dogs
@@ -824,29 +824,29 @@ Release Year: 1992
 Run Time: 99
 Rating: 8.3
 Metascore: 81
-Votes: 1,075,653
+Votes: 1,076,622
 Gross: $2.83M
 Link: https://www.imdb.com/title/tt0105236/
 
 Movie 84:
+Name: Incendies
+Release Year: 2010
+Run Time: 131
+Rating: 8.3
+Metascore: 80
+Votes: 194,480
+Gross: $6.86M
+Link: https://www.imdb.com/title/tt1255953/
+
+Movie 85:
 Name: Full Metal Jacket
 Release Year: 1987
 Run Time: 116
 Rating: 8.3
 Metascore: 78
-Votes: 781,453
+Votes: 782,035
 Gross: $46.36M
 Link: https://www.imdb.com/title/tt0093058/
-
-Movie 85:
-Name: Once Upon a Time in America
-Release Year: 1984
-Run Time: 229
-Rating: 8.3
-Metascore: 75
-Votes: 373,287
-Gross: $5.32M
-Link: https://www.imdb.com/title/tt0087843/
 
 Movie 86:
 Name: Mononoke-hime
@@ -854,7 +854,7 @@ Release Year: 1997
 Run Time: 134
 Rating: 8.3
 Metascore: 76
-Votes: 425,992
+Votes: 426,674
 Gross: $2.38M
 Link: https://www.imdb.com/title/tt0119698/
 
@@ -864,137 +864,137 @@ Release Year: 1995
 Run Time: 81
 Rating: 8.3
 Metascore: 96
-Votes: 1,055,411
+Votes: 1,056,417
 Gross: $191.80M
 Link: https://www.imdb.com/title/tt0114709/
 
 Movie 88:
-Name: The Sting
-Release Year: 1973
-Run Time: 129
-Rating: 8.3
-Metascore: 83
-Votes: 276,579
-Gross: $159.60M
-Link: https://www.imdb.com/title/tt0070735/
-
-Movie 89:
-Name: Incendies
-Release Year: 2010
-Run Time: 131
-Rating: 8.3
-Metascore: 80
-Votes: 194,139
-Gross: $6.86M
-Link: https://www.imdb.com/title/tt1255953/
-
-Movie 90:
 Name: Star Wars: Episode VI - Return of the Jedi
 Release Year: 1983
 Run Time: 131
 Rating: 8.3
 Metascore: 58
-Votes: 1,108,912
+Votes: 1,109,738
 Gross: $309.13M
 Link: https://www.imdb.com/title/tt0086190/
 
-Movie 91:
+Movie 89:
 Name: Le fabuleux destin d'Amélie Poulain
 Release Year: 2001
 Run Time: 122
 Rating: 8.3
 Metascore: 69
-Votes: 787,608
+Votes: 788,163
 Gross: $33.23M
 Link: https://www.imdb.com/title/tt0211915/
 
-Movie 92:
+Movie 90:
 Name: Up
 Release Year: 2009
 Run Time: 96
 Rating: 8.3
 Metascore: 88
-Votes: 1,109,671
+Votes: 1,110,778
 Gross: $293.00M
 Link: https://www.imdb.com/title/tt1049413/
 
-Movie 93:
-Name: Citizen Kane
-Release Year: 1941
-Run Time: 119
+Movie 91:
+Name: Lawrence of Arabia
+Release Year: 1962
+Run Time: 218
 Rating: 8.3
 Metascore: 100
-Votes: 461,625
-Gross: $1.59M
-Link: https://www.imdb.com/title/tt0033467/
+Votes: 310,614
+Gross: $44.82M
+Link: https://www.imdb.com/title/tt0056172/
 
-Movie 94:
-Name: Metropolis
-Release Year: 1927
-Run Time: 153
+Movie 92:
+Name: The Sting
+Release Year: 1973
+Run Time: 129
 Rating: 8.3
-Metascore: 98
-Votes: 183,388
-Gross: $1.24M
-Link: https://www.imdb.com/title/tt0017136/
+Metascore: 83
+Votes: 276,836
+Gross: $159.60M
+Link: https://www.imdb.com/title/tt0070735/
 
-Movie 95:
-Name: North by Northwest
-Release Year: 1959
-Run Time: 136
-Rating: 8.3
-Metascore: 98
-Votes: 342,950
-Gross: $13.28M
-Link: https://www.imdb.com/title/tt0053125/
-
-Movie 96:
+Movie 93:
 Name: Vertigo
 Release Year: 1958
 Run Time: 128
 Rating: 8.3
 Metascore: 100
-Votes: 422,481
+Votes: 422,825
 Gross: $3.20M
 Link: https://www.imdb.com/title/tt0052357/
 
-Movie 97:
-Name: Singin' in the Rain
-Release Year: 1952
-Run Time: 103
-Rating: 8.3
-Metascore: 99
-Votes: 257,545
-Gross: $8.82M
-Link: https://www.imdb.com/title/tt0045152/
-
-Movie 98:
+Movie 94:
 Name: Toy Story 3
 Release Year: 2010
 Run Time: 103
 Rating: 8.3
 Metascore: 92
-Votes: 882,881
+Votes: 883,649
 Gross: $415.00M
 Link: https://www.imdb.com/title/tt0435761/
 
-Movie 99:
+Movie 95:
+Name: Citizen Kane
+Release Year: 1941
+Run Time: 119
+Rating: 8.3
+Metascore: 100
+Votes: 461,923
+Gross: $1.59M
+Link: https://www.imdb.com/title/tt0033467/
+
+Movie 96:
+Name: Metropolis
+Release Year: 1927
+Run Time: 153
+Rating: 8.3
+Metascore: 98
+Votes: 183,532
+Gross: $1.24M
+Link: https://www.imdb.com/title/tt0017136/
+
+Movie 97:
+Name: North by Northwest
+Release Year: 1959
+Run Time: 136
+Rating: 8.3
+Metascore: 98
+Votes: 343,196
+Gross: $13.28M
+Link: https://www.imdb.com/title/tt0053125/
+
+Movie 98:
 Name: To Kill a Mockingbird
 Release Year: 1962
 Run Time: 129
 Rating: 8.3
 Metascore: 88
-Votes: 329,929
+Votes: 330,167
 Gross: *****
 Link: https://www.imdb.com/title/tt0056592/
 
-Movie 100:
-Name: The Apartment
-Release Year: 1960
-Run Time: 125
+Movie 99:
+Name: Judgment at Nuremberg
+Release Year: 1961
+Run Time: 179
 Rating: 8.3
-Metascore: 94
-Votes: 193,973
-Gross: $18.60M
-Link: https://www.imdb.com/title/tt0053604/
+Metascore: 60
+Votes: 83,860
+Gross: *****
+Link: https://www.imdb.com/title/tt0055031/
+
+Movie 100:
+Name: Singin' in the Rain
+Release Year: 1952
+Run Time: 103
+Rating: 8.3
+Metascore: 99
+Votes: 257,822
+Gross: $8.82M
+Link: https://www.imdb.com/title/tt0045152/
 
