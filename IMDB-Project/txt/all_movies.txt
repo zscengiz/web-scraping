@@ -4,7 +4,7 @@ Release Year: 1994
 Run Time: 142
 Rating: 9.3
 Metascore: 82
-Votes: 2,851,826
+Votes: 2,851,890
 Gross: $28.34M
 Link: https://www.imdb.com/title/tt0111161/
 
@@ -14,7 +14,7 @@ Release Year: 1972
 Run Time: 175
 Rating: 9.2
 Metascore: 100
-Votes: 1,987,035
+Votes: 1,987,080
 Gross: $134.97M
 Link: https://www.imdb.com/title/tt0068646/
 
@@ -24,7 +24,7 @@ Release Year: 2008
 Run Time: 152
 Rating: 9
 Metascore: 84
-Votes: 2,833,131
+Votes: 2,833,207
 Gross: $534.86M
 Link: https://www.imdb.com/title/tt0468569/
 
@@ -34,7 +34,7 @@ Release Year: 1993
 Run Time: 195
 Rating: 9
 Metascore: 95
-Votes: 1,432,638
+Votes: 1,432,662
 Gross: $96.90M
 Link: https://www.imdb.com/title/tt0108052/
 
@@ -44,7 +44,7 @@ Release Year: 2003
 Run Time: 201
 Rating: 9
 Metascore: 94
-Votes: 1,953,712
+Votes: 1,953,748
 Gross: $377.85M
 Link: https://www.imdb.com/title/tt0167260/
 
@@ -54,7 +54,7 @@ Release Year: 1974
 Run Time: 202
 Rating: 9
 Metascore: 90
-Votes: 1,348,489
+Votes: 1,348,529
 Gross: $57.30M
 Link: https://www.imdb.com/title/tt0071562/
 
@@ -64,7 +64,7 @@ Release Year: 1957
 Run Time: 96
 Rating: 9
 Metascore: 97
-Votes: 851,766
+Votes: 851,793
 Gross: $4.36M
 Link: https://www.imdb.com/title/tt0050083/
 
@@ -74,7 +74,7 @@ Release Year: 2001
 Run Time: 178
 Rating: 8.9
 Metascore: 92
-Votes: 1,981,126
+Votes: 1,981,158
 Gross: $315.54M
 Link: https://www.imdb.com/title/tt0120737/
 
@@ -84,7 +84,7 @@ Release Year: 1994
 Run Time: 154
 Rating: 8.9
 Metascore: 95
-Votes: 2,189,326
+Votes: 2,189,381
 Gross: $107.93M
 Link: https://www.imdb.com/title/tt0110912/
 
@@ -94,7 +94,7 @@ Release Year: 2010
 Run Time: 148
 Rating: 8.8
 Metascore: 74
-Votes: 2,515,327
+Votes: 2,515,394
 Gross: $292.58M
 Link: https://www.imdb.com/title/tt1375666/
 
@@ -104,7 +104,7 @@ Release Year: 1999
 Run Time: 139
 Rating: 8.8
 Metascore: 67
-Votes: 2,287,228
+Votes: 2,287,304
 Gross: $37.03M
 Link: https://www.imdb.com/title/tt0137523/
 
@@ -114,7 +114,7 @@ Release Year: 1994
 Run Time: 142
 Rating: 8.8
 Metascore: 82
-Votes: 2,224,844
+Votes: 2,224,899
 Gross: $330.25M
 Link: https://www.imdb.com/title/tt0109830/
 
@@ -124,7 +124,7 @@ Release Year: 2002
 Run Time: 179
 Rating: 8.8
 Metascore: 87
-Votes: 1,761,263
+Votes: 1,761,295
 Gross: $342.55M
 Link: https://www.imdb.com/title/tt0167261/
 
@@ -134,7 +134,7 @@ Release Year: 1966
 Run Time: 161
 Rating: 8.8
 Metascore: 90
-Votes: 802,220
+Votes: 802,235
 Gross: $6.10M
 Link: https://www.imdb.com/title/tt0060196/
 
@@ -144,7 +144,7 @@ Release Year: 2014
 Run Time: 169
 Rating: 8.7
 Metascore: 74
-Votes: 2,050,761
+Votes: 2,050,839
 Gross: $188.02M
 Link: https://www.imdb.com/title/tt0816692/
 
@@ -154,7 +154,7 @@ Release Year: 1975
 Run Time: 133
 Rating: 8.7
 Metascore: 84
-Votes: 1,060,880
+Votes: 1,060,907
 Gross: $112.00M
 Link: https://www.imdb.com/title/tt0073486/
 
@@ -164,7 +164,7 @@ Release Year: 1990
 Run Time: 145
 Rating: 8.7
 Metascore: 92
-Votes: 1,240,562
+Votes: 1,240,597
 Gross: $46.84M
 Link: https://www.imdb.com/title/tt0099685/
 
@@ -174,7 +174,7 @@ Release Year: 1999
 Run Time: 136
 Rating: 8.7
 Metascore: 73
-Votes: 2,026,296
+Votes: 2,026,356
 Gross: $171.48M
 Link: https://www.imdb.com/title/tt0133093/
 
@@ -184,7 +184,7 @@ Release Year: 1980
 Run Time: 124
 Rating: 8.7
 Metascore: 82
-Votes: 1,364,446
+Votes: 1,364,474
 Gross: $290.48M
 Link: https://www.imdb.com/title/tt0080684/
 
@@ -194,7 +194,7 @@ Release Year: 1991
 Run Time: 118
 Rating: 8.6
 Metascore: 86
-Votes: 1,527,583
+Votes: 1,527,629
 Gross: $130.74M
 Link: https://www.imdb.com/title/tt0102926/
 
@@ -204,7 +204,7 @@ Release Year: 1995
 Run Time: 127
 Rating: 8.6
 Metascore: 65
-Votes: 1,772,403
+Votes: 1,772,449
 Gross: $100.13M
 Link: https://www.imdb.com/title/tt0114369/
 
@@ -214,7 +214,7 @@ Release Year: 1991
 Run Time: 137
 Rating: 8.6
 Metascore: 75
-Votes: 1,161,257
+Votes: 1,161,285
 Gross: $204.84M
 Link: https://www.imdb.com/title/tt0103064/
 
@@ -224,7 +224,7 @@ Release Year: 2001
 Run Time: 125
 Rating: 8.6
 Metascore: 96
-Votes: 833,938
+Votes: 833,963
 Gross: $10.06M
 Link: https://www.imdb.com/title/tt0245429/
 
@@ -234,7 +234,7 @@ Release Year: 1977
 Run Time: 121
 Rating: 8.6
 Metascore: 90
-Votes: 1,435,049
+Votes: 1,435,076
 Gross: $322.74M
 Link: https://www.imdb.com/title/tt0076759/
 
@@ -244,7 +244,7 @@ Release Year: 1999
 Run Time: 189
 Rating: 8.6
 Metascore: 61
-Votes: 1,389,020
+Votes: 1,389,056
 Gross: $136.80M
 Link: https://www.imdb.com/title/tt0120689/
 
@@ -254,7 +254,7 @@ Release Year: 1998
 Run Time: 169
 Rating: 8.6
 Metascore: 91
-Votes: 1,478,916
+Votes: 1,478,943
 Gross: $216.54M
 Link: https://www.imdb.com/title/tt0120815/
 
@@ -264,7 +264,7 @@ Release Year: 2002
 Run Time: 130
 Rating: 8.6
 Metascore: 79
-Votes: 793,009
+Votes: 793,026
 Gross: $7.56M
 Link: https://www.imdb.com/title/tt0317248/
 
@@ -274,7 +274,7 @@ Release Year: 1997
 Run Time: 116
 Rating: 8.6
 Metascore: 58
-Votes: 735,051
+Votes: 735,068
 Gross: $57.60M
 Link: https://www.imdb.com/title/tt0118799/
 
@@ -284,7 +284,7 @@ Release Year: 1946
 Run Time: 130
 Rating: 8.6
 Metascore: 89
-Votes: 494,467
+Votes: 494,479
 Gross: *****
 Link: https://www.imdb.com/title/tt0038650/
 
@@ -294,7 +294,7 @@ Release Year: 1954
 Run Time: 207
 Rating: 8.6
 Metascore: 98
-Votes: 363,219
+Votes: 363,226
 Gross: $0.27M
 Link: https://www.imdb.com/title/tt0047478/
 
@@ -304,7 +304,7 @@ Release Year: 2000
 Run Time: 155
 Rating: 8.5
 Metascore: 67
-Votes: 1,598,037
+Votes: 1,598,080
 Gross: $187.71M
 Link: https://www.imdb.com/title/tt0172495/
 
@@ -314,7 +314,7 @@ Release Year: 2014
 Run Time: 106
 Rating: 8.5
 Metascore: 89
-Votes: 966,239
+Votes: 966,295
 Gross: $13.09M
 Link: https://www.imdb.com/title/tt2582802/
 
@@ -324,7 +324,7 @@ Release Year: 1985
 Run Time: 116
 Rating: 8.5
 Metascore: 87
-Votes: 1,289,741
+Votes: 1,289,772
 Gross: $210.61M
 Link: https://www.imdb.com/title/tt0088763/
 
@@ -334,7 +334,7 @@ Release Year: 2006
 Run Time: 151
 Rating: 8.5
 Metascore: 85
-Votes: 1,406,099
+Votes: 1,406,141
 Gross: $132.38M
 Link: https://www.imdb.com/title/tt0407887/
 
@@ -344,7 +344,7 @@ Release Year: 2006
 Run Time: 130
 Rating: 8.5
 Metascore: 66
-Votes: 1,422,551
+Votes: 1,422,577
 Gross: $53.09M
 Link: https://www.imdb.com/title/tt0482571/
 
@@ -354,7 +354,7 @@ Release Year: 1994
 Run Time: 110
 Rating: 8.5
 Metascore: 64
-Votes: 1,230,967
+Votes: 1,231,005
 Gross: $19.50M
 Link: https://www.imdb.com/title/tt0110413/
 
@@ -364,7 +364,7 @@ Release Year: 1979
 Run Time: 117
 Rating: 8.5
 Metascore: 89
-Votes: 938,123
+Votes: 938,154
 Gross: $78.90M
 Link: https://www.imdb.com/title/tt0078748/
 
@@ -374,7 +374,7 @@ Release Year: 2012
 Run Time: 165
 Rating: 8.5
 Metascore: 81
-Votes: 1,669,945
+Votes: 1,670,004
 Gross: $162.81M
 Link: https://www.imdb.com/title/tt1853728/
 
@@ -384,7 +384,7 @@ Release Year: 1994
 Run Time: 88
 Rating: 8.5
 Metascore: 88
-Votes: 1,127,853
+Votes: 1,127,885
 Gross: $422.78M
 Link: https://www.imdb.com/title/tt0110357/
 
@@ -394,7 +394,7 @@ Release Year: 1998
 Run Time: 119
 Rating: 8.5
 Metascore: 62
-Votes: 1,175,424
+Votes: 1,175,451
 Gross: $6.72M
 Link: https://www.imdb.com/title/tt0120586/
 
@@ -404,7 +404,7 @@ Release Year: 1995
 Run Time: 106
 Rating: 8.5
 Metascore: 76
-Votes: 1,134,958
+Votes: 1,134,988
 Gross: $23.34M
 Link: https://www.imdb.com/title/tt0114814/
 
@@ -414,7 +414,7 @@ Release Year: 2002
 Run Time: 150
 Rating: 8.5
 Metascore: 85
-Votes: 898,923
+Votes: 898,950
 Gross: $32.57M
 Link: https://www.imdb.com/title/tt0253474/
 
@@ -424,7 +424,7 @@ Release Year: 1942
 Run Time: 102
 Rating: 8.5
 Metascore: 100
-Votes: 600,231
+Votes: 600,244
 Gross: $1.02M
 Link: https://www.imdb.com/title/tt0034583/
 
@@ -434,7 +434,7 @@ Release Year: 1960
 Run Time: 109
 Rating: 8.5
 Metascore: 97
-Votes: 710,956
+Votes: 710,977
 Gross: $32.00M
 Link: https://www.imdb.com/title/tt0054215/
 
@@ -444,7 +444,7 @@ Release Year: 2011
 Run Time: 112
 Rating: 8.5
 Metascore: 57
-Votes: 916,635
+Votes: 916,666
 Gross: $13.18M
 Link: https://www.imdb.com/title/tt1675434/
 
@@ -454,7 +454,7 @@ Release Year: 1988
 Run Time: 89
 Rating: 8.5
 Metascore: 94
-Votes: 304,423
+Votes: 304,438
 Gross: *****
 Link: https://www.imdb.com/title/tt0095327/
 
@@ -464,7 +464,7 @@ Release Year: 1968
 Run Time: 166
 Rating: 8.5
 Metascore: 82
-Votes: 346,241
+Votes: 346,245
 Gross: $5.32M
 Link: https://www.imdb.com/title/tt0064116/
 
@@ -474,7 +474,7 @@ Release Year: 1954
 Run Time: 112
 Rating: 8.5
 Metascore: 100
-Votes: 517,021
+Votes: 517,034
 Gross: $36.76M
 Link: https://www.imdb.com/title/tt0047396/
 
@@ -484,7 +484,7 @@ Release Year: 1988
 Run Time: 155
 Rating: 8.5
 Metascore: 80
-Votes: 279,220
+Votes: 279,230
 Gross: $11.99M
 Link: https://www.imdb.com/title/tt0095765/
 
@@ -494,7 +494,7 @@ Release Year: 1931
 Run Time: 87
 Rating: 8.5
 Metascore: 99
-Votes: 194,149
+Votes: 194,155
 Gross: $0.02M
 Link: https://www.imdb.com/title/tt0021749/
 
@@ -504,7 +504,7 @@ Release Year: 1936
 Run Time: 87
 Rating: 8.5
 Metascore: 96
-Votes: 256,720
+Votes: 256,725
 Gross: $0.16M
 Link: https://www.imdb.com/title/tt0027977/
 
@@ -514,7 +514,7 @@ Release Year: 2009
 Run Time: 153
 Rating: 8.4
 Metascore: 69
-Votes: 1,559,850
+Votes: 1,559,903
 Gross: $120.54M
 Link: https://www.imdb.com/title/tt0361748/
 
@@ -524,7 +524,7 @@ Release Year: 1986
 Run Time: 137
 Rating: 8.4
 Metascore: 84
-Votes: 754,845
+Votes: 754,867
 Gross: $85.16M
 Link: https://www.imdb.com/title/tt0090605/
 
@@ -534,7 +534,7 @@ Release Year: 2000
 Run Time: 113
 Rating: 8.4
 Metascore: 83
-Votes: 1,308,059
+Votes: 1,308,083
 Gross: $25.54M
 Link: https://www.imdb.com/title/tt0209144/
 
@@ -544,7 +544,7 @@ Release Year: 2018
 Run Time: 117
 Rating: 8.4
 Metascore: 87
-Votes: 655,667
+Votes: 655,705
 Gross: $190.24M
 Link: https://www.imdb.com/title/tt4633694/
 
@@ -554,7 +554,7 @@ Release Year: 1980
 Run Time: 146
 Rating: 8.4
 Metascore: 66
-Votes: 1,092,855
+Votes: 1,092,882
 Gross: $44.02M
 Link: https://www.imdb.com/title/tt0081505/
 
@@ -564,7 +564,7 @@ Release Year: 1981
 Run Time: 115
 Rating: 8.4
 Metascore: 86
-Votes: 1,028,119
+Votes: 1,028,149
 Gross: $248.16M
 Link: https://www.imdb.com/title/tt0082971/
 
@@ -574,7 +574,7 @@ Release Year: 1979
 Run Time: 147
 Rating: 8.4
 Metascore: 94
-Votes: 702,666
+Votes: 702,682
 Gross: $83.47M
 Link: https://www.imdb.com/title/tt0078788/
 
@@ -584,7 +584,7 @@ Release Year: 1985
 Run Time: 142
 Rating: 8.4
 Metascore: ^^^^^^
-Votes: 94,145
+Votes: 94,151
 Gross: *****
 Link: https://www.imdb.com/title/tt0091251/
 
@@ -594,7 +594,7 @@ Release Year: 1984
 Run Time: 160
 Rating: 8.4
 Metascore: 87
-Votes: 423,433
+Votes: 423,441
 Gross: $51.97M
 Link: https://www.imdb.com/title/tt0086879/
 
@@ -604,7 +604,7 @@ Release Year: I 2017
 Run Time: 105
 Rating: 8.4
 Metascore: 81
-Votes: 577,348
+Votes: 577,380
 Gross: $209.73M
 Link: https://www.imdb.com/title/tt2380307/
 
@@ -614,7 +614,7 @@ Release Year: 1964
 Run Time: 95
 Rating: 8.4
 Metascore: 97
-Votes: 513,128
+Votes: 513,141
 Gross: $0.28M
 Link: https://www.imdb.com/title/tt0057012/
 
@@ -624,7 +624,7 @@ Release Year: 2008
 Run Time: 98
 Rating: 8.4
 Metascore: 95
-Votes: 1,185,482
+Votes: 1,185,513
 Gross: $223.81M
 Link: https://www.imdb.com/title/tt0910970/
 
@@ -634,7 +634,7 @@ Release Year: 2006
 Run Time: 137
 Rating: 8.4
 Metascore: 89
-Votes: 406,742
+Votes: 406,753
 Gross: $11.29M
 Link: https://www.imdb.com/title/tt0405094/
 
@@ -644,7 +644,7 @@ Release Year: 1981
 Run Time: 149
 Rating: 8.4
 Metascore: 85
-Votes: 262,248
+Votes: 262,253
 Gross: $11.49M
 Link: https://www.imdb.com/title/tt0082096/
 
@@ -654,7 +654,7 @@ Release Year: 1950
 Run Time: 110
 Rating: 8.4
 Metascore: 94
-Votes: 234,027
+Votes: 234,033
 Gross: *****
 Link: https://www.imdb.com/title/tt0043014/
 
@@ -664,7 +664,7 @@ Release Year: 1957
 Run Time: 88
 Rating: 8.4
 Metascore: 90
-Votes: 209,891
+Votes: 209,897
 Gross: *****
 Link: https://www.imdb.com/title/tt0050825/
 
@@ -674,7 +674,7 @@ Release Year: 1957
 Run Time: 116
 Rating: 8.4
 Metascore: 76
-Votes: 135,672
+Votes: 135,679
 Gross: $8.18M
 Link: https://www.imdb.com/title/tt0051201/
 
@@ -684,7 +684,7 @@ Release Year: 1940
 Run Time: 125
 Rating: 8.4
 Metascore: ^^^^^^
-Votes: 235,247
+Votes: 235,251
 Gross: $0.29M
 Link: https://www.imdb.com/title/tt0032553/
 
@@ -694,7 +694,7 @@ Release Year: I 2011
 Run Time: 102
 Rating: 8.4
 Metascore: 65
-Votes: 37,731
+Votes: 37,732
 Gross: $2.67M
 Link: https://www.imdb.com/title/tt0770802/
 
@@ -704,7 +704,7 @@ Release Year: 1995
 Run Time: 170
 Rating: 8.3
 Metascore: 76
-Votes: 709,642
+Votes: 709,670
 Gross: $67.44M
 Link: https://www.imdb.com/title/tt0113277/
 
@@ -714,7 +714,7 @@ Release Year: 1997
 Run Time: 126
 Rating: 8.3
 Metascore: 71
-Votes: 1,048,908
+Votes: 1,048,960
 Gross: $138.43M
 Link: https://www.imdb.com/title/tt0119217/
 
@@ -724,7 +724,7 @@ Release Year: 1999
 Run Time: 122
 Rating: 8.3
 Metascore: 84
-Votes: 1,200,768
+Votes: 1,200,783
 Gross: $130.10M
 Link: https://www.imdb.com/title/tt0169547/
 
@@ -734,7 +734,7 @@ Release Year: 2003
 Run Time: 120
 Rating: 8.3
 Metascore: 78
-Votes: 625,927
+Votes: 625,953
 Gross: $0.71M
 Link: https://www.imdb.com/title/tt0364569/
 
@@ -744,7 +744,7 @@ Release Year: 2000
 Run Time: 102
 Rating: 8.3
 Metascore: 71
-Votes: 889,471
+Votes: 889,490
 Gross: $3.64M
 Link: https://www.imdb.com/title/tt0180093/
 
@@ -754,7 +754,7 @@ Release Year: 2004
 Run Time: 108
 Rating: 8.3
 Metascore: 89
-Votes: 1,064,365
+Votes: 1,064,392
 Gross: $34.40M
 Link: https://www.imdb.com/title/tt0338013/
 
@@ -764,7 +764,7 @@ Release Year: 1983
 Run Time: 170
 Rating: 8.3
 Metascore: 65
-Votes: 904,261
+Votes: 904,284
 Gross: $45.60M
 Link: https://www.imdb.com/title/tt0086250/
 
@@ -774,7 +774,7 @@ Release Year: 1995
 Run Time: 178
 Rating: 8.3
 Metascore: 68
-Votes: 1,082,169
+Votes: 1,082,194
 Gross: $75.60M
 Link: https://www.imdb.com/title/tt0112573/
 
@@ -784,7 +784,7 @@ Release Year: 1971
 Run Time: 136
 Rating: 8.3
 Metascore: 77
-Votes: 872,882
+Votes: 872,901
 Gross: $6.21M
 Link: https://www.imdb.com/title/tt0066921/
 
@@ -794,7 +794,7 @@ Release Year: 2012
 Run Time: 115
 Rating: 8.3
 Metascore: 77
-Votes: 358,656
+Votes: 358,664
 Gross: $0.69M
 Link: https://www.imdb.com/title/tt2106476/
 
@@ -804,7 +804,7 @@ Release Year: 1968
 Run Time: 149
 Rating: 8.3
 Metascore: 84
-Votes: 710,761
+Votes: 710,780
 Gross: $56.95M
 Link: https://www.imdb.com/title/tt0062622/
 
@@ -814,7 +814,7 @@ Release Year: 1984
 Run Time: 229
 Rating: 8.3
 Metascore: 75
-Votes: 373,643
+Votes: 373,651
 Gross: $5.32M
 Link: https://www.imdb.com/title/tt0087843/
 
@@ -824,7 +824,7 @@ Release Year: 1992
 Run Time: 99
 Rating: 8.3
 Metascore: 81
-Votes: 1,076,622
+Votes: 1,076,650
 Gross: $2.83M
 Link: https://www.imdb.com/title/tt0105236/
 
@@ -834,7 +834,7 @@ Release Year: 2010
 Run Time: 131
 Rating: 8.3
 Metascore: 80
-Votes: 194,480
+Votes: 194,487
 Gross: $6.86M
 Link: https://www.imdb.com/title/tt1255953/
 
@@ -844,7 +844,7 @@ Release Year: 1987
 Run Time: 116
 Rating: 8.3
 Metascore: 78
-Votes: 782,035
+Votes: 782,056
 Gross: $46.36M
 Link: https://www.imdb.com/title/tt0093058/
 
@@ -854,7 +854,7 @@ Release Year: 1997
 Run Time: 134
 Rating: 8.3
 Metascore: 76
-Votes: 426,674
+Votes: 426,693
 Gross: $2.38M
 Link: https://www.imdb.com/title/tt0119698/
 
@@ -864,7 +864,7 @@ Release Year: 1995
 Run Time: 81
 Rating: 8.3
 Metascore: 96
-Votes: 1,056,417
+Votes: 1,056,438
 Gross: $191.80M
 Link: https://www.imdb.com/title/tt0114709/
 
@@ -874,7 +874,7 @@ Release Year: 1983
 Run Time: 131
 Rating: 8.3
 Metascore: 58
-Votes: 1,109,738
+Votes: 1,109,765
 Gross: $309.13M
 Link: https://www.imdb.com/title/tt0086190/
 
@@ -884,7 +884,7 @@ Release Year: 2001
 Run Time: 122
 Rating: 8.3
 Metascore: 69
-Votes: 788,163
+Votes: 788,173
 Gross: $33.23M
 Link: https://www.imdb.com/title/tt0211915/
 
@@ -894,7 +894,7 @@ Release Year: 2009
 Run Time: 96
 Rating: 8.3
 Metascore: 88
-Votes: 1,110,778
+Votes: 1,110,805
 Gross: $293.00M
 Link: https://www.imdb.com/title/tt1049413/
 
@@ -904,7 +904,7 @@ Release Year: 1962
 Run Time: 218
 Rating: 8.3
 Metascore: 100
-Votes: 310,614
+Votes: 310,624
 Gross: $44.82M
 Link: https://www.imdb.com/title/tt0056172/
 
@@ -914,7 +914,7 @@ Release Year: 1973
 Run Time: 129
 Rating: 8.3
 Metascore: 83
-Votes: 276,836
+Votes: 276,839
 Gross: $159.60M
 Link: https://www.imdb.com/title/tt0070735/
 
@@ -924,7 +924,7 @@ Release Year: 1958
 Run Time: 128
 Rating: 8.3
 Metascore: 100
-Votes: 422,825
+Votes: 422,837
 Gross: $3.20M
 Link: https://www.imdb.com/title/tt0052357/
 
@@ -934,7 +934,7 @@ Release Year: 2010
 Run Time: 103
 Rating: 8.3
 Metascore: 92
-Votes: 883,649
+Votes: 883,664
 Gross: $415.00M
 Link: https://www.imdb.com/title/tt0435761/
 
@@ -944,7 +944,7 @@ Release Year: 1941
 Run Time: 119
 Rating: 8.3
 Metascore: 100
-Votes: 461,923
+Votes: 461,929
 Gross: $1.59M
 Link: https://www.imdb.com/title/tt0033467/
 
@@ -954,7 +954,7 @@ Release Year: 1927
 Run Time: 153
 Rating: 8.3
 Metascore: 98
-Votes: 183,532
+Votes: 183,538
 Gross: $1.24M
 Link: https://www.imdb.com/title/tt0017136/
 
@@ -964,7 +964,7 @@ Release Year: 1959
 Run Time: 136
 Rating: 8.3
 Metascore: 98
-Votes: 343,196
+Votes: 343,203
 Gross: $13.28M
 Link: https://www.imdb.com/title/tt0053125/
 
@@ -974,7 +974,7 @@ Release Year: 1962
 Run Time: 129
 Rating: 8.3
 Metascore: 88
-Votes: 330,167
+Votes: 330,174
 Gross: *****
 Link: https://www.imdb.com/title/tt0056592/
 
@@ -984,7 +984,7 @@ Release Year: 1961
 Run Time: 179
 Rating: 8.3
 Metascore: 60
-Votes: 83,860
+Votes: 83,866
 Gross: *****
 Link: https://www.imdb.com/title/tt0055031/
 
@@ -994,7 +994,7 @@ Release Year: 1952
 Run Time: 103
 Rating: 8.3
 Metascore: 99
-Votes: 257,822
+Votes: 257,831
 Gross: $8.82M
 Link: https://www.imdb.com/title/tt0045152/
 
